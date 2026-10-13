@@ -167,15 +167,15 @@ EfficientNet-B0 with fine-tuning was selected as the final model for ONNX export
 
 **1. Model Comparison**
 
-![Model Comparison](evaluation-comparison-chart.png)
+![Model Comparison](evaluation_comparison_chart.png)
 
 **2. Training and Validation Curves**
 
-![Training and Validation Curves](images/training-curves.png)
+![Training and Validation Curves](all_models_loss_accuracy.png)
 
 **3. Confusion Matrix**
 
-![EfficientNet-B0 Confusion Matrix](confusion-matrix-EffNetB0.png)
+![EfficientNet-B0 Confusion Matrix](confusion_matrix_EffNetB0.png)
 
 **4. Additional Results**
 
