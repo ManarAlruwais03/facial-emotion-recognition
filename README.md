@@ -167,7 +167,7 @@ EfficientNet-B0 with fine-tuning was selected as the final model for ONNX export
 
 **1. Model Comparison**
 
-![Model Comparison](evaluation_comparison_chart.png)
+![Model Comparison](evaluation_comparion_chart.png)
 
 **2. Training and Validation Curves**
 
